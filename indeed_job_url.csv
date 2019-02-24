@@ -1,0 +1,110 @@
+﻿Company,JobID,Published Title,Inferred Title,Known Name
+Big Fish Games,7e8ce32fdc3d9696,Data Analyst,Data Analyst,N
+Prosper,cf0ff2d35b25e8b6,Senior Data Scientist,Data Scientist,N
+Honor,a607b741f72dd860,Data Analyst,Data Analyst,N
+DocuSign,3055d6248edc3a0e,Data Analyst,Data Analyst,N
+University of California San Francisco,0f4891b668f77d7d,Data Analyst,Data Analyst,N
+Atreca,7b19dad1a5dd82fc,Data Analyst,Data Analyst,N
+XDIN,500db86bc945f92d,Data Analyst,Data Analyst,N
+Cisco Meraki,798005f45f4dcb5b,Data Analyst,Data Analyst,N
+Doximity,a7182d43f60e532b,Data Analyst,Data Analyst,N
+Unify Conuslting,f60b68dde90e5412,Data Analyst,Data Analyst,N
+Blue Owl,2b84203eec794c60,Data Scientist - Insurance,Data Scientist,N
+ITL USA,1adae89d9c4cd287,Data Scientist,Data Scientist,N
+Prosper,cf0ff2d35b25e8b6,Senior Data Scientist,Data Scientist,N
+eBay Inc,c9bdb952f06e70a5,"Data Scientist, Product Analytics",Data Scientist,N
+Blue Owl,6aa6d001583d7912,Senior Data Analyst,Data Analyst,N
+Atomwise,45c6ca6a596222d0,Business Analyst,Business Analyst,N
+American Giant,8a7280bb3ee0cbd9,Data Analyst,Data Analyst,N
+Macy's,654f7103fdb02636,"Analyst, Marketing Analytics",Marketing Analyst,Y
+"Faneuil, Inc",a2e57b8382f69123,Data Analyst,Data Analyst,N
+Open Systems AG,1c0af4d72af20f7e,Operations Data Analyst,Data Analyst,N
+Swish Analytics,f90f72f560a62178,Data Scientist,Data Scientist,N
+WrkShp,9277fc376675cf8a,Data Analyst,Data Analyst,N
+Sybest,8994f6a4a79f8819,Data Analyst,Data Analyst,N
+Madison Reed,e60f12944718a144,Growth Marketing Analyst,Marketing Analyst,N
+Veem,efb4d52efe4960d2,Business Analyst,Business Analyst,N
+Marqeta,1f0b1ec62a027fb0,"Data Analyst, Marketing & Developer Experience",Data Analyst,N
+Aktana,782a5b2dc3d37878,Business Analyst,Business Analyst,N
+Vastek Group Inc,7d486e4b255d7902,Business Analyst,Business Analyst,N
+Plexuss,90f009d018f8859e,Data Analyst - Product and UX,Data Analyst,N
+Anaplan,70fe9f5b3b2f1632,Business Analyst,Business Analyst,N
+Hired,7a3af8c40410263b,Business Intelligence Analyst,BI Analyst,N
+Retrace Labs,c6addb997485c790,Data Scientist,Data Scientist,N
+Vivino,3d996b2670183970,Growth Analyst,Marketing Analyst,N
+B-Stock Solutions,fcaaf3cf419a92a1,Marketing Analyst,Marketing Analyst,N
+BVOH,b65f417d5defbf13,Business Analyst,Business Analyst,N
+Eel River Organics,2bc5557b7cd87df8,Business Analyst,Business Analyst,N
+Sound Physicians,7d2b26d7d1ff22d2,"Senior Analyst, Business Intelligence & Analytics",BI Analyst,N
+Curology,f1258fcf75890f37,Data Scientist - Marketing,Data Scientist,N
+Skillz Inc.,04b53a5dc7cfe058,Business Intelligence Analyst,BI Analyst,N
+Shipt,3c61b195f07c416c,Data Scientist,Data Scientist,N
+Health Plan of San Mateo,ecca07ecb054f195,Health Data Analyst,Data Analyst,N
+Stealth Mode Startup,6361faff2eea1c06,"Data Analyst Scientist – Bioinformatics (Biotech, Integration, Genomics)",Data Scientist,N
+ZenReach,6edfc5bd8aac7d3b,Data Scientist,Data Scientist,N
+Citius Tech,66eb22919f83aa4b,Data Scientist Consultant,Data Scientist,N
+Stitch Fix,c5fe6c59c529d799,Data Scientist - Inventory Forecasting and Health,Data Scientist,N
+Verana Health,93e0a5f796e8e1c0,Clinical Data Scientist,Data Scientist,N
+Pinterest,558ad01c7557fcd7,Measurement Data Scientist,Data Scientist,Y
+Evernote,eeab913bba9df391,Data Scientist - Analytics,Data Scientist,Y
+Samba TV,9c685a18952c70d4,Data Engineer - Core Data and Analytics,Data Engineer,N
+Twitter,dc4ab1e9342ae3c0,Digital Marketing Analyst,Marketing Analyst,Y
+BOLD,077bc9f41c97da7a,Product Data Analyst,Product Analyst,N
+Slack,2e8d29c1be1b471f,Data Engineer - Data Modeling/ETL,Data Engineer,Y
+Nexon M,701cc3f5392c9936,Data Analyst,Data Analyst,N
+Autodesk,ae2752381024e3ce,Business Analyst,Business Analyst,Y
+NinthDecimal,87370b3029015d24,Data Analyst,Data Analyst,N
+Square,cb491d419b1e29fa,"Data Analyst, Square Capital",Data Analyst,Y
+Uber,a30d683bba2b43f6,Business Intelligence Analyst,BI Analyst,Y
+Bitly,17c0e032f5b5a758,Data Analyst,Data Analyst,Y
+Amazon,5bfcbca93fc77b4e,Data Scientist,Data Scientist,Y
+Amazon,e28d33b244bdc4dc,"Data Scientist, Alexa Shopping NLU",Data Scientist,Y
+EventBrite,09c18d00b1057941,Data Scientist,Data Scientist,Y
+Harnham,bc99fd9c29b0f4d1,Data Scientist - Global Retailer,Data Scientist,N
+Canopy Health,8d51798afdc418c8,Data Scientist,Data Scientist,N
+Punnch,6568a50d093e79fc,Data Science/Machine Learning Intern - Summer 2019,Data Scientist,N
+Splunk,ccef88387ab1efe6,Machine Learning Intern (Summer 2019),Data Scientist,N
+Yelp,552bbb6e2b67ca83,Data Science Manager,Data Scientist,Y
+DISH Network,2d7cd366ef39e323,Lead Data Scientist,Data Scientist,N
+Capital One,83d97c6d82f8815c,Data Scientist,Data Scientist,N
+Microsoft,e61f522102fa5263,Data Scientist,Data Scientist,Y
+Apple,c69bc0cf0f53aadf,"Data Scientist, Apple Books Analytics - Business & Marketing",Data Scientist,Y
+Gusto,4b4ac81b9d40ff03,"Data Scientist, Models and Algorithms",Data Scientist,N
+Verizon,91c34c0debd3e70e,Data Scientist – Predictive & Prescriptive Analytics,Data Scientist,Y
+SoFi,aa93486955494466,"Data Scientist, Modeler (Marketing)",Data Scientist,Y
+Roblox,1d021c97d8335e54,Data Scientist - Payments/Fraud,Data Scientist,N
+Stanza,a23dc121aa305a80,Data Scientist,Data Scientist,N
+AutoDesk,3abf3e84a3e09a03,Data Scientist,Data Scientist,Y
+Northrop Grumman,092c3d8d133db164,Data Scientist,Data Scientist,N
+WeWork,7ad0cecab93c6f73,Principal Data Scientist,Data Scientist,Y
+Harnham US,e48f7a3587f967e9,Quantitative Data Scientist,Data Scientist,N
+HersheyCareers,b1c8753579980858,Data Scientist HR Analytics,Data Scientist,N
+TiVo,30af0f427e2658c8,Staff Data Scientist,Data Scientist,N
+"Niantic, Inc.",1442b34e35c11b28,Data Scientist,Data Scientist,N
+ClassDojo,ee83e5c4001c5c30,Data Scientist,Data Scientist,N
+Roblox,152958d516396460,Data Scientist - Ads/Subscriptions,Data Scientist,N
+Unity Technologies,636565b6db8a0ccc,"Data Scientist, Game Economy Optimization",Data Scientist,N
+Pinterest,e6ae2945a2be55f9,"Data Scientist, Experimentation (Statistics)",Data Scientist,N
+Airbus UTM,16b94bb31cf6d0b6,Data Scientist,Data Scientist,N
+States Title,5e364920c1dc4f3b,Data Scientist,Data Scientist,N
+Invitae,d2065507b45d1d0b,Data Scientist,Data Scientist,N
+Akamai,8f51116ee4435cf6,Senior Data Scientist,Data Scientist,N
+HersheyCareers,b1c8753579980858,Data Scientist HR Analytics,Data Scientist,N
+Cerego LLC,10ebccbb5ecb73e9,Data Scientist,Data Scientist,N
+Chime,b43f1cdbeef88f0c,Data Scientist,Data Scientist,N
+Nextdoor,7029e1f472135080,Data Scientist,Data Scientist,N
+Trilogy Ed,2c655d2eaeaf2d07,Data Scientist,Data Scientist,N
+Metromile,fa11c6432e45c707,Data Scientist,Data Scientist,N
+MasterClass,5842a86b26f1647a,Data Scientist,Data Scientist,N
+Liberty Mutual,63eb657a3aad9637,"Data Scientist, Distribution Insights, Global Retail Markets",Data Scientist,N
+Thorn,231feffbbeca1500,Data Scientist,Data Scientist,N
+San Francisco Giants,b9e62a6b2608e8af,Data Scientist,Data Scientist,N
+Optimizely,7cf259d616b99bc1,Data Scientist - Statistical Inference,Data Scientist,N
+TiVo,30af0f427e2658c8,Staff Data Scientist,Data Scientist,N
+Google,02679a29f39e8773,"Data Scientist, Google Cloud, Revenue Acceleration",Data Scientist,N
+Paradigm,edaab9012cac5413,People Data Scientist,Data Scientist,N
+Kelvin Inc.,5ece6662a69f9700,Data Scientist - Statistician,Data Scientist,N
+Bold Metrics,3f8c7a77798ec4d9,Data Scientist,Data Scientist,N
+IBM,a387e307cd69bbbd,Data Scientist,Data Scientist,N
+Samba TV,38bcc426560cc1db,Data Scientist,Data Scientist,N
+DecisionLogic,dfb02687ff85ab14,Data Scientist,Data Scientist,N
