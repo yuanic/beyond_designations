@@ -1,6 +1,28 @@
 ﻿Company,JobID,Published Title,Inferred Title,Known Name
+Hired,7a3af8c40410263b,Business Intelligence Analyst,BI Analyst,N
+Sound Physicians,7d2b26d7d1ff22d2,"Senior Analyst, Business Intelligence & Analytics",BI Analyst,N
+Skillz Inc.,04b53a5dc7cfe058,Business Intelligence Analyst,BI Analyst,N
+Uber,a30d683bba2b43f6,Business Intelligence Analyst,BI Analyst,Y
+Dolls Kill,d8c8fd8bf063435e,BI Analyst,BI Analyst,N
+Rocket Lawyer,51a64f5acdf36703,"Senior Analyst, Business Intelligence",BI Analyst,N
+Twitter,b4a139d5dcec87c1,Senior Business Intelligence Manager,BI Analyst,Y
+Twitter,3ec5661ef47f6030,"Business Intelligence Analyst, Ad Health",BI Analyst,Y
+Macy's,9d0aa7fc8ee186e5,"Manager, Business Intelligence",BI Analyst,Y
+Stitch Fix,3cefbcec7cd295aa,BI Manager,BI Analyst,N
+Uber,74458a1f8387a695,Senior Business Intelligence Analyst,BI Analyst,Y
+Uber,a30d683bba2b43f6,Business Intelligence Analyst,BI Analyst,Y
+Atomwise,45c6ca6a596222d0,Business Analyst,Business Analyst,N
+Veem,efb4d52efe4960d2,Business Analyst,Business Analyst,N
+Aktana,782a5b2dc3d37878,Business Analyst,Business Analyst,N
+Vastek Group Inc,7d486e4b255d7902,Business Analyst,Business Analyst,N
+Anaplan,70fe9f5b3b2f1632,Business Analyst,Business Analyst,N
+BVOH,b65f417d5defbf13,Business Analyst,Business Analyst,N
+Eel River Organics,2bc5557b7cd87df8,Business Analyst,Business Analyst,N
+Autodesk,ae2752381024e3ce,Business Analyst,Business Analyst,Y
+Autodesk,c68ab3655ead1aee,Senior Business Analyst,Business Analyst,Y
+EIS Group,bbcb4bffee8342ea,Lead Business Analyst,Business Analyst,N
+Amazon,0503623ad7526825,Senior Business Analyst - EC2 BI,Business Analyst,Y
 Big Fish Games,7e8ce32fdc3d9696,Data Analyst,Data Analyst,N
-Prosper,cf0ff2d35b25e8b6,Senior Data Scientist,Data Scientist,N
 Honor,a607b741f72dd860,Data Analyst,Data Analyst,N
 DocuSign,3055d6248edc3a0e,Data Analyst,Data Analyst,N
 University of California San Francisco,0f4891b668f77d7d,Data Analyst,Data Analyst,N
@@ -9,37 +31,78 @@ XDIN,500db86bc945f92d,Data Analyst,Data Analyst,N
 Cisco Meraki,798005f45f4dcb5b,Data Analyst,Data Analyst,N
 Doximity,a7182d43f60e532b,Data Analyst,Data Analyst,N
 Unify Conuslting,f60b68dde90e5412,Data Analyst,Data Analyst,N
+Blue Owl,6aa6d001583d7912,Senior Data Analyst,Data Analyst,N
+American Giant,8a7280bb3ee0cbd9,Data Analyst,Data Analyst,N
+"Faneuil, Inc",a2e57b8382f69123,Data Analyst,Data Analyst,N
+Open Systems AG,1c0af4d72af20f7e,Operations Data Analyst,Data Analyst,N
+WrkShp,9277fc376675cf8a,Data Analyst,Data Analyst,N
+Sybest,8994f6a4a79f8819,Data Analyst,Data Analyst,N
+Marqeta,1f0b1ec62a027fb0,"Data Analyst, Marketing & Developer Experience",Data Analyst,N
+Plexuss,90f009d018f8859e,Data Analyst - Product and UX,Data Analyst,N
+Health Plan of San Mateo,ecca07ecb054f195,Health Data Analyst,Data Analyst,N
+Nexon M,701cc3f5392c9936,Data Analyst,Data Analyst,N
+NinthDecimal,87370b3029015d24,Data Analyst,Data Analyst,N
+Square,cb491d419b1e29fa,"Data Analyst, Square Capital",Data Analyst,Y
+Bitly,17c0e032f5b5a758,Data Analyst,Data Analyst,Y
+Autodesk,57de98fa0e3e110d,Big Data Analyst,Data Analyst,Y
+Uber,2d420771c95759a5,"Data Analyst II, Data Quality",Data Analyst,Y
+Wikimedia Foundation,c435d460f7695393,Senior Data Analyst,Data Analyst,N
+Zendesk,778c2ac1fb1647ba,Enterprise Data Operations Analyst,Data Analyst,Y
+Salesforce,515cde9dcfab1191,Product Data Analyst - Quip,Data Analyst,Y
+The Climate Corporateion,7ff6c9d9db5332cb,Data Analyst,Data Analyst,N
+Uber,9d4e49061ff170cc,"Data Analyst I, Safety and Insurance",Data Analyst,Y
+CBRE,d4a8f56e1ae9a86b,Data Analyst,Data Analyst,Y
+Canvas,0c0d23a5b8d9068c,Data Analyst,Data Analyst,Y
+eSpark Learning,5b777268fd47f2a4,Data Analyst,Data Analyst,N
+Scoot Network,f769f249a3a38b81,Data Analyst,Data Analyst,N
+Spin Electric Scooter,66a8043c6d23373e,Data Analyst,Data Analyst,N
+Samba TV,9c685a18952c70d4,Data Engineer - Core Data and Analytics,Data Engineer,N
+Slack,2e8d29c1be1b471f,Data Engineer - Data Modeling/ETL,Data Engineer,Y
+Facebook,f3b823e71210a622,"Data Engineer, Analytics",Data Engineer,Y
+Wells Fargo,a6102cd2a2bd72ba,Data Science and Data Engineers - Enterprise Data Analytics Program,Data Engineer,Y
+PepsiCo,f9e3aa62e633e752,eCommerce Data Engineer,Data Engineer,Y
+PlushCare,0dfbf23bf696c4b4,Data Analytics Engineer,Data Engineer,Y
+LaunchDarkly,a737297db065fabe,Data Analytics Engineer,Data Engineer,Y
+Twitter,bb04468314898afa,BI Engineer,Data Engineer,Y
+Slack,2e8d29c1be1b471f,Data Engineer - Data Modeling/ETL,Data Engineer,Y
+Twitter,0f81e4fa410066c6,"Data Engineer, Data Science",Data Engineer,Y
+Dropbox,0cc56cd8ccd3f9ec,Data Engineer,Data Engineer,Y
+Ultimate Software,885093c06a3391e4,Senior Data Engineer,Data Engineer,N
+Swish Analytics,edb3efd24aba7ef8,Data Engineer,Data Engineer,N
+WeWork,ec7caab6cb882dd0,Data Engineer - Modeling,Data Engineer,N
+Tapjoy,2f26c61481423100,Data Science Engineer,Data Engineer,N
+"BrightEdge Technologies, Inc.",977f59be05dde29b,Data Engineer,Data Engineer,N
+Rocket Lawyer,77d82294adb4af3e,Senior Data Engineer,Data Engineer,N
+iTalent Digital,cc45675b96f8603a,"Data Engineer (Azure, Big Data, BI)",Data Engineer,N
+Granular,2d2cfbbcefbd0a5f,Data Engineer,Data Engineer,N
+Atlassian,d4e8037d3e06691b,Data Engineer,Data Engineer,Y
+"BrightEdge Technologies, Inc.",eed004010b21400a,Data Engineer,Data Engineer,N
+Quantcast,399eac42dce80466,"Data Engineer, Data Warehouse",Data Engineer,Y
+Plantt,53903164db346141,Jr. Backend/Data Engineer,Data Engineer,N
+Eaze,336164271e19a88a,Data Engineer,Data Engineer,N
+Canvas,8d80f3096fd97e77,Data Engineer,Data Engineer,Y
+Ultimate Software,89ca5cc3acd260d4,Data Engineer,Data Engineer,N
+WaterSmart Software,036f39bdc62f4879,Software Engineer - Data,Data Engineer,N
+goPuff,34075b3e8f9d7160,Data Engineer,Data Engineer,N
+Yelp,20ebb12eb84737d6,Business Intelligence - Data Engineer,Data Engineer,Y
+The Climate Corporateion,d5d0fca20ccc571a,Data Engineer,Data Engineer,N
+Twilio,404da9dc29ca2227,"Data Engineer, Growth",Data Engineer,N
+Formation,7d8813e319468c7e,Data Engineer,Data Engineer,N
+Ericsson,9fa2d9e08e8166eb,Data Engineer- ML and AI,Data Engineer,Y
+Scoop Technologies,1ca7fe3d943d49e3,Data Engineer,Data Engineer,N
+Slack,7f9a05fd76bd4b78,Data Engineer - Infrastructure,Data Engineer,Y
+CBS Interactive,2634721b78f7299f,Data Engineer,Data Engineer,Y
+Trianz,24e63fb4a39f0255,Data Engineer,Data Engineer,N
+Zeus,6e0b645e7c7d31a6,Data Engineer,Data Engineer,N
+Prosper,cf0ff2d35b25e8b6,Senior Data Scientist,Data Scientist,N
 Blue Owl,2b84203eec794c60,Data Scientist - Insurance,Data Scientist,N
 ITL USA,1adae89d9c4cd287,Data Scientist,Data Scientist,N
 Prosper,cf0ff2d35b25e8b6,Senior Data Scientist,Data Scientist,N
 eBay Inc,c9bdb952f06e70a5,"Data Scientist, Product Analytics",Data Scientist,N
-Blue Owl,6aa6d001583d7912,Senior Data Analyst,Data Analyst,N
-Atomwise,45c6ca6a596222d0,Business Analyst,Business Analyst,N
-American Giant,8a7280bb3ee0cbd9,Data Analyst,Data Analyst,N
-Macy's,654f7103fdb02636,"Analyst, Marketing Analytics",Marketing Analyst,Y
-"Faneuil, Inc",a2e57b8382f69123,Data Analyst,Data Analyst,N
-Open Systems AG,1c0af4d72af20f7e,Operations Data Analyst,Data Analyst,N
 Swish Analytics,f90f72f560a62178,Data Scientist,Data Scientist,N
-WrkShp,9277fc376675cf8a,Data Analyst,Data Analyst,N
-Sybest,8994f6a4a79f8819,Data Analyst,Data Analyst,N
-Madison Reed,e60f12944718a144,Growth Marketing Analyst,Marketing Analyst,N
-Veem,efb4d52efe4960d2,Business Analyst,Business Analyst,N
-Marqeta,1f0b1ec62a027fb0,"Data Analyst, Marketing & Developer Experience",Data Analyst,N
-Aktana,782a5b2dc3d37878,Business Analyst,Business Analyst,N
-Vastek Group Inc,7d486e4b255d7902,Business Analyst,Business Analyst,N
-Plexuss,90f009d018f8859e,Data Analyst - Product and UX,Data Analyst,N
-Anaplan,70fe9f5b3b2f1632,Business Analyst,Business Analyst,N
-Hired,7a3af8c40410263b,Business Intelligence Analyst,BI Analyst,N
 Retrace Labs,c6addb997485c790,Data Scientist,Data Scientist,N
-Vivino,3d996b2670183970,Growth Analyst,Marketing Analyst,N
-B-Stock Solutions,fcaaf3cf419a92a1,Marketing Analyst,Marketing Analyst,N
-BVOH,b65f417d5defbf13,Business Analyst,Business Analyst,N
-Eel River Organics,2bc5557b7cd87df8,Business Analyst,Business Analyst,N
-Sound Physicians,7d2b26d7d1ff22d2,"Senior Analyst, Business Intelligence & Analytics",BI Analyst,N
 Curology,f1258fcf75890f37,Data Scientist - Marketing,Data Scientist,N
-Skillz Inc.,04b53a5dc7cfe058,Business Intelligence Analyst,BI Analyst,N
 Shipt,3c61b195f07c416c,Data Scientist,Data Scientist,N
-Health Plan of San Mateo,ecca07ecb054f195,Health Data Analyst,Data Analyst,N
 Stealth Mode Startup,6361faff2eea1c06,"Data Analyst Scientist – Bioinformatics (Biotech, Integration, Genomics)",Data Scientist,N
 ZenReach,6edfc5bd8aac7d3b,Data Scientist,Data Scientist,N
 Citius Tech,66eb22919f83aa4b,Data Scientist Consultant,Data Scientist,N
@@ -47,16 +110,6 @@ Stitch Fix,c5fe6c59c529d799,Data Scientist - Inventory Forecasting and Health,Da
 Verana Health,93e0a5f796e8e1c0,Clinical Data Scientist,Data Scientist,N
 Pinterest,558ad01c7557fcd7,Measurement Data Scientist,Data Scientist,Y
 Evernote,eeab913bba9df391,Data Scientist - Analytics,Data Scientist,Y
-Samba TV,9c685a18952c70d4,Data Engineer - Core Data and Analytics,Data Engineer,N
-Twitter,dc4ab1e9342ae3c0,Digital Marketing Analyst,Marketing Analyst,Y
-BOLD,077bc9f41c97da7a,Product Data Analyst,Product Analyst,N
-Slack,2e8d29c1be1b471f,Data Engineer - Data Modeling/ETL,Data Engineer,Y
-Nexon M,701cc3f5392c9936,Data Analyst,Data Analyst,N
-Autodesk,ae2752381024e3ce,Business Analyst,Business Analyst,Y
-NinthDecimal,87370b3029015d24,Data Analyst,Data Analyst,N
-Square,cb491d419b1e29fa,"Data Analyst, Square Capital",Data Analyst,Y
-Uber,a30d683bba2b43f6,Business Intelligence Analyst,BI Analyst,Y
-Bitly,17c0e032f5b5a758,Data Analyst,Data Analyst,Y
 Amazon,5bfcbca93fc77b4e,Data Scientist,Data Scientist,Y
 Amazon,e28d33b244bdc4dc,"Data Scientist, Alexa Shopping NLU",Data Scientist,Y
 EventBrite,09c18d00b1057941,Data Scientist,Data Scientist,Y
@@ -108,3 +161,120 @@ Bold Metrics,3f8c7a77798ec4d9,Data Scientist,Data Scientist,N
 IBM,a387e307cd69bbbd,Data Scientist,Data Scientist,N
 Samba TV,38bcc426560cc1db,Data Scientist,Data Scientist,N
 DecisionLogic,dfb02687ff85ab14,Data Scientist,Data Scientist,N
+Lending Club,0c9ad8bab7eeccfa,Data Scientist (Product Analytics),Data Scientist,Y
+SoFi,06cbfd7e5a6af2f7,"Data Scientist, Analyst (Brand and Member Marketing)",Data Scientist,Y
+Ubisoft,c4fb0924a6eec3f2,"Data Scientist, Audience Science",Data Scientist,N
+Thunder,0b481bd3c1915d27,Data Scientist / Data Engineer,Data Scientist,N
+Macy's,654f7103fdb02636,"Analyst, Marketing Analytics",Marketing Analyst,Y
+Madison Reed,e60f12944718a144,Growth Marketing Analyst,Marketing Analyst,N
+Vivino,3d996b2670183970,Growth Analyst,Marketing Analyst,N
+B-Stock Solutions,fcaaf3cf419a92a1,Marketing Analyst,Marketing Analyst,N
+Twitter,dc4ab1e9342ae3c0,Digital Marketing Analyst,Marketing Analyst,Y
+Sephora,c958c851d0821229,Senior Analyst - Marketing Analytics,Marketing Analyst,Y
+Oracle,3c3f1e79678138a8,"Product Marketing Analyst, Cloud Platforms",Marketing Analyst,Y
+Open Table,96ef10ad3c13a097,Marketing Analyst,Marketing Analyst,Y
+Fitbit,8bf486876fa95933,CRM/Lifecycle Marketing Analyst,Marketing Analyst,Y
+Glassdoor,c0dbdcc2cf0f2d84,Marketing Analytics Manager,Marketing Analyst,Y
+BOLD,077bc9f41c97da7a,Product Data Analyst,Product Analyst,N
+Uber,3bfab4d1357620e5,Product Analyst - Product Strategy,Product Analyst,Y
+Himalaya Media,6fcfe199623c0fab,Product Analyst/Operation Specialist,Product Analyst,N
+Intercom,c88f264dd8fd0b8d,Senior Product Analyst,Product Analyst,Y
+Visa,b1d839fe698e141b,Product Analyst,Product Analyst,Y
+Sephora,5a3e87748525e012,"Senior Manager, Product Analytics and Insights",Product Analyst,Y
+Akraya,05eb2041d0ded656,Product Analyst,Product Analyst,N
+Google,40616467e87167ce,"Product Analyst, Data Science",Product Analyst,N
+Square,db9a90974f54f8f5,"Senior Product Marketing Analyst, Payments",Product Analyst,N
+Square,4bd63f9430c1bdd2,"Senior Product Analyst, Point of Sale",Product Analyst,Y
+Adobe,efc4265cba6c74f9,"Manager Product Analytics, Adobe XD",Product Analyst,Y
+Square,31e720d4a681b20d,"Senior Product Analyst, Appointments",Product Analyst,Y
+Slack,5d6abf0bde25a786,Data Science Manager - Product Analytics,Product Analyst,Y
+Hired,ffd220e20913986a,Senior Product Manger - Growth,Product Manager,Y
+Autodesk,23f9def80e06f5efa,Product Manager - Customer Data API,Product Manager,Y
+Autodesk,9b8070af5928ce22,Product Manager,Product Manager,Y
+Autodesk,29e96f3adec787d9,Customer Success Journey Product Manager,Product Manager,Y
+Eventbrite,c0f04043c999ad4e,Senior Product Manager - Music,Product Manager,Y
+Zendesk,25f59832eb81c6d3,"Manager, Product Strategy & Operations",Product Manager,Y
+Big Fish Games,3848214563120140,Senior Product Manager,Product Manager,N
+Visa,67e7839b696d3e3a,Product Manager - Predictive Insights,Product Manager,Y
+Zoosk,a5102002282d9b58,"Senior Product Manager, Messaging",Product Manager,N
+Komodo Health,3854986e93ccc2b2,Product Manager,Product Manager,N
+Facebook,68673ccca35d060f,Product Manager - Instagram,Product Manager,Y
+Under Amour,2be3889018e4a15f,Product Manager,Product Manager,Y
+App Annie,05e75ebd5f4a2cc9,Product Manager,Product Manager,N
+Twitter,9b187dcb9fb8c357,Product Manager,Product Manager,Y
+UJET,117a4617fafc0a08,Product Manager,Product Manager,N
+SAP,b8044be536fe8d6b,Product Manager,Product Manager,Y
+"Niantic, Inc.",d4db1db143b09d0f,Product Manager - Analytics,Product Manager,Y
+WeWork,fea5f55906fb921c,"Product Manager - BuildingKit, Core Platform",Product Manager,Y
+Universal Health and Wellness Corporation,97a93311e5d2bc26,Product Manager,Product Manager,N
+Benetech,f64ab06e920b2ae9,Product Manager,Product Manager,N
+CircleUp,248fba066598f3f2,Product Manager,Product Manager,N
+Cloudflare,150bc59d52bca820,Product Manager - Platform,Product Manager,N
+Trov,0016b41616ddcec4,Product Manager,Product Manager,N
+Salesforce,9d723a284fd12402,Product Manager,Product Manager,Y
+MetaOption,6b365220b548f1d4,Product Manager,Product Manager,N
+WeWork,d82509226c3a8abb,Product Manager,Product Manager,Y
+Gainsight,f1a0401b7f7a4d63,Product Manager – Gainsight PX,Product Manager,N
+ThirdLove,b63273f23f2bedeb,Product Manager,Product Manager,N
+ReferralExchange,7ec9bf06bb535cf0,Product Manager,Product Manager,N
+Bleacher Report,fb17400fc61f01a6,Product Manager,Product Manager,N
+Verana Health,78556a037a720c27,Product Manager,Product Manager,N
+Scoop Technologies,ca713f2a94176e07,Associate Product Manager,Product Manager,N
+ioT AI Disruptive Technology,93355b481215ddc2,Product Manager,Product Manager,N
+Twitter,32953f32dfff027d,"Group Product Manager, International",Product Manager,N
+Getaruond,bb4254213f99215a,Product Manager,Product Manager,N
+Nextdoor,3d09cd6d5ab6663a,Product Manager,Product Manager,N
+Thumtack,0b51403ba73aa082,Product Manager,Product Manager,N
+O2 Staffing,b73f0a052fc1a3c0,Senior Analyst (BI & Analytics),BI Analyst,N
+Doctor On Demand,1ab075066c88043c,Senior Data Analyst,Data Analyst,N
+the San Francisco Giants,750bfe61394d3bbd,Business Analyst,Business Analyst,N
+Massdrop,57002b476862f438,Marketing Analyst,Marketing Analyst,N
+Nextdoor,54570ed4fe2b0cdb,Business Intelligence Lead,BI Analyst,N
+Basic American Food,1c07d4e63d244af5,BI Analyst,BI Analyst,N
+LimeBike,c767572962883767,Data Analyst,Data Analyst,N
+Sitecore,5f086b3e6246de3d,Business Intelligence Analyst,BI Analyst,N
+Imperfect Produce,b93f503134f982fc,Data Analyst,Data Analyst,N
+Twitch,899bb630fc0436fe,Data Analyst,Data Analyst,N
+John Muir Health,8ebb52fdc43718de,Business Analytics Analyst - Strategic Analytics,Business Analyst,N
+Google,852f25d672e82e32,"Senior Business Intelligence Analyst, Google Customer Solutions, Ads Finance",BI Analyst,N
+Esurance,db669c824ef04115,"Senior Manager, Business Intelligence",BI Analyst,N
+Chime,5aa87095d9c9a25f,Senior Data Analyst,Data Analyst,N
+Fremont Bank,0dea6f7a58953a3d,Digital Services Data Analyst,Data Analyst,N
+Ubisoft,6aabdc8007719965,Senior Media Analyst,Marketing Analyst,N
+BitTorrent Inc.,b96d2673feea78c2,Data Scientist,Data Scientist,Y
+Airbnb,33d4c1f298ab4e08,"Product Manager, Pro Host",Product Manager,Y
+Zeus Living,dd06bbcbc9b37893,Senior Business Intelligence Analyst,BI Analyst,N
+Okta,4f666c2f77a78e7f,"Sr. Analyst, Marketing Strategy and Analytics",Marketing Analyst,N
+Instacart,3779fd715f0ebec2,"Senior Data Scientist, Growth",Data Scientist,Y
+Sojern,f2f0de487f55ee4c,Senior Product Manager,Product Manager,Y
+Adara,b3a1292c34859853,Product Manager,Product Manager,N
+Adara,1813b3ee59e99702,Data Engineer,Data Engineer,N
+TripAdvisor,c01fdc61d82602c6,"Product Manager, TripAdvisor Experiences",Product Manager,Y
+Hotwire,06b3f1db5a38d870,Sr. Business Analyst - Supply,Business Analyst,Y
+YotaScale Inc ,bb326375dfd3a7f3,Senior Product Manager,Product Manager,N
+Kenshoo,533bcdd81ba57322,Data Scientist,Data Scientist,N
+Walmart,dfb84b961fae296d,Associate Product Analytics,Product Analyst,Y
+Walmart,ce9d1e3f07b349d4,Senior Product Manager - Data Team,Product Manager,Y
+Walmart,d5515b7cfcc1f8f7,Product Manager,Product Manager,Y
+Walmart,a16faf0d686db42c,"Senior Manager I, Data Scientist",Data Scientist,Y
+Walmart,d9715004e3fe8289,Staff Data Scientist,Data Scientist,Y
+Slack,0cf097cc501c5036,"Senior Product Manager, Cross-Team Communication",Product Manager,Y
+Lyft,2b773b396f254bb3,"Data Scientist, Safety & Insurance",Data Scientist,Y
+Lyft,46aabed933335466,"Data Scientist, Decision Science Products",Data Scientist,Y
+Lyft,0db055cf9ca041fc,"Product Manager, Fraud",Product Manager,Y
+Lyft,004c17c556754d1c,"Business Analyst, Claims",Business Analyst,Y
+Lyft,a9dd21f2470925ee,"Engineering Manager, Data Engineering",Data Engineer,Y
+Gap Inc. Corporate,3e731f165e63d3e5,"Manager, Marketing Analytics",Marketing Analyst,Y
+Gap Inc. Corporate,6435846f34f6ed25,Senior Data Analyst - Product Operations - Advanced Analytics,Data Analyst,Y
+Gap Inc. Corporate,5b42b601d7b8b570,"Product Manager, Pricing & Promo",Product Manager,Y
+Gap Inc. Corporate,cf4aa2ab85c1fc91,Business Analyst - Strategic Sourcing,Business Analyst,Y
+Gap Inc. Corporate,a035014054a4ca57,Business Analyst - Mission Control,Business Analyst,Y
+Publicis Groupe,13c45a748c867199,Lead Data Scientist,Data Scientist,Y
+Sony PlayStation,712729fd201dc031,"Product Manager, Core (Mobile)",Product Manager,Y
+Sony PlayStation,a710b9db067cf510,"Senior Data Engineer, Data Analytics",Data Engineer,Y
+Sony Interactive Entertainment PlayStation,c0da8d912ebbe59b,Business Intelligence Analyst,Business Analyst,Y
+Sony Interactive Entertainment PlayStation,5bf939fabe518397,Sr. Business Analyst,Business Analyst,Y
+Sony Interactive Entertainment PlayStation,1d4hh4bj7f85q803,"Data Analyst, Digital Marketing",Data Analyst,Y
+Ipsy,70eb601f511044e9,"Business Analyst, Personalization Operations",Business Analyst,N
+eBay Inc,20f51d4a5d9e7e33,Sr. Marketing Analytics Manager,Marketing Analyst,Y
+Ampush,cbf1924761d90938,Growth Marketing Analyst,Marketing Analyst,N
