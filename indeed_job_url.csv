@@ -1,16 +1,15 @@
 ﻿Company,JobID,Published Title,Inferred Title,Known Name
-Hired,7a3af8c40410263b,Business Intelligence Analyst,BI Analyst,N
-Sound Physicians,7d2b26d7d1ff22d2,"Senior Analyst, Business Intelligence & Analytics",BI Analyst,N
-Skillz Inc.,04b53a5dc7cfe058,Business Intelligence Analyst,BI Analyst,N
-Uber,a30d683bba2b43f6,Business Intelligence Analyst,BI Analyst,Y
-Dolls Kill,d8c8fd8bf063435e,BI Analyst,BI Analyst,N
-Rocket Lawyer,51a64f5acdf36703,"Senior Analyst, Business Intelligence",BI Analyst,N
-Twitter,b4a139d5dcec87c1,Senior Business Intelligence Manager,BI Analyst,Y
-Twitter,3ec5661ef47f6030,"Business Intelligence Analyst, Ad Health",BI Analyst,Y
-Macy's,9d0aa7fc8ee186e5,"Manager, Business Intelligence",BI Analyst,Y
-Stitch Fix,3cefbcec7cd295aa,BI Manager,BI Analyst,N
-Uber,74458a1f8387a695,Senior Business Intelligence Analyst,BI Analyst,Y
-Uber,a30d683bba2b43f6,Business Intelligence Analyst,BI Analyst,Y
+Hired,7a3af8c40410263b,Business Intelligence Analyst,Business Intelligence,N
+Sound Physicians,7d2b26d7d1ff22d2,"Senior Analyst, Business Intelligence & Analytics",Business Intelligence,N
+Skillz Inc.,04b53a5dc7cfe058,Business Intelligence Analyst,Business Intelligence,N
+Uber,a30d683bba2b43f6,Business Intelligence Analyst,Business Intelligence,Y
+Dolls Kill,d8c8fd8bf063435e,BI Analyst,Business Intelligence,N
+Rocket Lawyer,51a64f5acdf36703,"Senior Analyst, Business Intelligence",Business Intelligence,N
+Twitter,b4a139d5dcec87c1,Senior Business Intelligence Manager,Business Intelligence,Y
+Twitter,3ec5661ef47f6030,"Business Intelligence Analyst, Ad Health",Business Intelligence,Y
+Macy's,9d0aa7fc8ee186e5,"Manager, Business Intelligence",Business Intelligence,Y
+Stitch Fix,3cefbcec7cd295aa,BI Manager,Business Intelligence,N
+Uber,74458a1f8387a695,Senior Business Intelligence Analyst,Business Intelligence,Y
 Atomwise,45c6ca6a596222d0,Business Analyst,Business Analyst,N
 Veem,efb4d52efe4960d2,Business Analyst,Business Analyst,N
 Aktana,782a5b2dc3d37878,Business Analyst,Business Analyst,N
@@ -165,16 +164,16 @@ Lending Club,0c9ad8bab7eeccfa,Data Scientist (Product Analytics),Data Scientist,
 SoFi,06cbfd7e5a6af2f7,"Data Scientist, Analyst (Brand and Member Marketing)",Data Scientist,Y
 Ubisoft,c4fb0924a6eec3f2,"Data Scientist, Audience Science",Data Scientist,N
 Thunder,0b481bd3c1915d27,Data Scientist / Data Engineer,Data Scientist,N
-Macy's,654f7103fdb02636,"Analyst, Marketing Analytics",Marketing Analyst,Y
-Madison Reed,e60f12944718a144,Growth Marketing Analyst,Marketing Analyst,N
-Vivino,3d996b2670183970,Growth Analyst,Marketing Analyst,N
-B-Stock Solutions,fcaaf3cf419a92a1,Marketing Analyst,Marketing Analyst,N
-Twitter,dc4ab1e9342ae3c0,Digital Marketing Analyst,Marketing Analyst,Y
-Sephora,c958c851d0821229,Senior Analyst - Marketing Analytics,Marketing Analyst,Y
-Oracle,3c3f1e79678138a8,"Product Marketing Analyst, Cloud Platforms",Marketing Analyst,Y
-Open Table,96ef10ad3c13a097,Marketing Analyst,Marketing Analyst,Y
-Fitbit,8bf486876fa95933,CRM/Lifecycle Marketing Analyst,Marketing Analyst,Y
-Glassdoor,c0dbdcc2cf0f2d84,Marketing Analytics Manager,Marketing Analyst,Y
+Macy's,654f7103fdb02636,"Analyst, Marketing Analytics",Marketing Analystics,Y
+Madison Reed,e60f12944718a144,Growth Marketing Analyst,Marketing Analystics,N
+Vivino,3d996b2670183970,Growth Analyst,Marketing Analystics,N
+B-Stock Solutions,fcaaf3cf419a92a1,Marketing Analyst,Marketing Analystics,N
+Twitter,dc4ab1e9342ae3c0,Digital Marketing Analyst,Marketing Analystics,Y
+Sephora,c958c851d0821229,Senior Analyst - Marketing Analytics,Marketing Analystics,Y
+Oracle,3c3f1e79678138a8,"Product Marketing Analyst, Cloud Platforms",Marketing Analystics,Y
+Open Table,96ef10ad3c13a097,Marketing Analyst,Marketing Analystics,Y
+Fitbit,8bf486876fa95933,CRM/Lifecycle Marketing Analyst,Marketing Analystics,Y
+Glassdoor,c0dbdcc2cf0f2d84,Marketing Analytics Manager,Marketing Analystics,Y
 BOLD,077bc9f41c97da7a,Product Data Analyst,Product Analyst,N
 Uber,3bfab4d1357620e5,Product Analyst - Product Strategy,Product Analyst,Y
 Himalaya Media,6fcfe199623c0fab,Product Analyst/Operation Specialist,Product Analyst,N
@@ -189,12 +188,12 @@ Adobe,efc4265cba6c74f9,"Manager Product Analytics, Adobe XD",Product Analyst,Y
 Square,31e720d4a681b20d,"Senior Product Analyst, Appointments",Product Analyst,Y
 Slack,5d6abf0bde25a786,Data Science Manager - Product Analytics,Product Analyst,Y
 Hired,ffd220e20913986a,Senior Product Manger - Growth,Product Manager,Y
-Autodesk,23f9def80e06f5efa,Product Manager - Customer Data API,Product Manager,Y
+Autodesk,3f9def80e06f5efa,Product Manager - Customer Data API,Product Manager,Y
 Autodesk,9b8070af5928ce22,Product Manager,Product Manager,Y
 Autodesk,29e96f3adec787d9,Customer Success Journey Product Manager,Product Manager,Y
 Eventbrite,c0f04043c999ad4e,Senior Product Manager - Music,Product Manager,Y
 Zendesk,25f59832eb81c6d3,"Manager, Product Strategy & Operations",Product Manager,Y
-Big Fish Games,3848214563120140,Senior Product Manager,Product Manager,N
+Big Fish Games,2e33a0a0c309d7c8,Senior Product Manager,Product Manager,N
 Visa,67e7839b696d3e3a,Product Manager - Predictive Insights,Product Manager,Y
 Zoosk,a5102002282d9b58,"Senior Product Manager, Messaging",Product Manager,N
 Komodo Health,3854986e93ccc2b2,Product Manager,Product Manager,N
@@ -225,26 +224,26 @@ Twitter,32953f32dfff027d,"Group Product Manager, International",Product Manager,
 Getaruond,bb4254213f99215a,Product Manager,Product Manager,N
 Nextdoor,3d09cd6d5ab6663a,Product Manager,Product Manager,N
 Thumtack,0b51403ba73aa082,Product Manager,Product Manager,N
-O2 Staffing,b73f0a052fc1a3c0,Senior Analyst (BI & Analytics),BI Analyst,N
+O2 Staffing,b73f0a052fc1a3c0,Senior Analyst (BI & Analytics),Business Intelligence,N
 Doctor On Demand,1ab075066c88043c,Senior Data Analyst,Data Analyst,N
 the San Francisco Giants,750bfe61394d3bbd,Business Analyst,Business Analyst,N
-Massdrop,57002b476862f438,Marketing Analyst,Marketing Analyst,N
-Nextdoor,54570ed4fe2b0cdb,Business Intelligence Lead,BI Analyst,N
-Basic American Food,1c07d4e63d244af5,BI Analyst,BI Analyst,N
+Massdrop,57002b476862f438,Marketing Analyst,Marketing Analystics,N
+Nextdoor,54570ed4fe2b0cdb,Business Intelligence Lead,Business Intelligence,N
+Basic American Food,1c07d4e63d244af5,BI Analyst,Business Intelligence,N
 LimeBike,c767572962883767,Data Analyst,Data Analyst,N
-Sitecore,5f086b3e6246de3d,Business Intelligence Analyst,BI Analyst,N
+Sitecore,5f086b3e6246de3d,Business Intelligence Analyst,Business Intelligence,N
 Imperfect Produce,b93f503134f982fc,Data Analyst,Data Analyst,N
 Twitch,899bb630fc0436fe,Data Analyst,Data Analyst,N
 John Muir Health,8ebb52fdc43718de,Business Analytics Analyst - Strategic Analytics,Business Analyst,N
-Google,852f25d672e82e32,"Senior Business Intelligence Analyst, Google Customer Solutions, Ads Finance",BI Analyst,N
-Esurance,db669c824ef04115,"Senior Manager, Business Intelligence",BI Analyst,N
+Google,852f25d672e82e32,"Senior Business Intelligence Analyst, Google Customer Solutions, Ads Finance",Business Intelligence,N
+Esurance,db669c824ef04115,"Senior Manager, Business Intelligence",Business Intelligence,N
 Chime,5aa87095d9c9a25f,Senior Data Analyst,Data Analyst,N
 Fremont Bank,0dea6f7a58953a3d,Digital Services Data Analyst,Data Analyst,N
-Ubisoft,6aabdc8007719965,Senior Media Analyst,Marketing Analyst,N
+Ubisoft,6aabdc8007719965,Senior Media Analyst,Marketing Analystics,N
 BitTorrent Inc.,b96d2673feea78c2,Data Scientist,Data Scientist,Y
 Airbnb,33d4c1f298ab4e08,"Product Manager, Pro Host",Product Manager,Y
-Zeus Living,dd06bbcbc9b37893,Senior Business Intelligence Analyst,BI Analyst,N
-Okta,4f666c2f77a78e7f,"Sr. Analyst, Marketing Strategy and Analytics",Marketing Analyst,N
+Zeus Living,dd06bbcbc9b37893,Senior Business Intelligence Analyst,Business Intelligence,N
+Okta,4f666c2f77a78e7f,"Sr. Analyst, Marketing Strategy and Analytics",Marketing Analystics,N
 Instacart,3779fd715f0ebec2,"Senior Data Scientist, Growth",Data Scientist,Y
 Sojern,f2f0de487f55ee4c,Senior Product Manager,Product Manager,Y
 Adara,b3a1292c34859853,Product Manager,Product Manager,N
@@ -264,7 +263,7 @@ Lyft,46aabed933335466,"Data Scientist, Decision Science Products",Data Scientist
 Lyft,0db055cf9ca041fc,"Product Manager, Fraud",Product Manager,Y
 Lyft,004c17c556754d1c,"Business Analyst, Claims",Business Analyst,Y
 Lyft,a9dd21f2470925ee,"Engineering Manager, Data Engineering",Data Engineer,Y
-Gap Inc. Corporate,3e731f165e63d3e5,"Manager, Marketing Analytics",Marketing Analyst,Y
+Gap Inc. Corporate,3e731f165e63d3e5,"Manager, Marketing Analytics",Marketing Analystics,Y
 Gap Inc. Corporate,6435846f34f6ed25,Senior Data Analyst - Product Operations - Advanced Analytics,Data Analyst,Y
 Gap Inc. Corporate,5b42b601d7b8b570,"Product Manager, Pricing & Promo",Product Manager,Y
 Gap Inc. Corporate,cf4aa2ab85c1fc91,Business Analyst - Strategic Sourcing,Business Analyst,Y
@@ -274,7 +273,12 @@ Sony PlayStation,712729fd201dc031,"Product Manager, Core (Mobile)",Product Manag
 Sony PlayStation,a710b9db067cf510,"Senior Data Engineer, Data Analytics",Data Engineer,Y
 Sony Interactive Entertainment PlayStation,c0da8d912ebbe59b,Business Intelligence Analyst,Business Analyst,Y
 Sony Interactive Entertainment PlayStation,5bf939fabe518397,Sr. Business Analyst,Business Analyst,Y
-Sony Interactive Entertainment PlayStation,1d4hh4bj7f85q803,"Data Analyst, Digital Marketing",Data Analyst,Y
+Sony Interactive Entertainment PlayStation,a768e7c5b2810f83,"Data Analyst, Digital Marketing",Data Analyst,Y
 Ipsy,70eb601f511044e9,"Business Analyst, Personalization Operations",Business Analyst,N
-eBay Inc,20f51d4a5d9e7e33,Sr. Marketing Analytics Manager,Marketing Analyst,Y
-Ampush,cbf1924761d90938,Growth Marketing Analyst,Marketing Analyst,N
+eBay Inc,20f51d4a5d9e7e33,Sr. Marketing Analytics Manager,Marketing Analystics,Y
+Ampush,cbf1924761d90938,Growth Marketing Analyst,Marketing Analystics,N
+Salesforce,b79e4b0f5e8b9d67,"Analyst/Sr. Business Analyst, Analytics & Insights",Business Analyst,Y
+Google,014cd8dc164e5582,"Product Insights Analyst, Google Customer Solutions",Product Analyst,Y
+Fanatics,e1ca0759ac601b5e,"Sr. Analyst, Business Analytics",Business Analyst,N
+Uber,124c1851c19c280e,"Senior Business Analyst, Global Safety Support",Business Analyst,N
+Affirm,4e3e803227cb6f2f,"Business Analyst, Strategy and Analytics",Business Analyst,N
